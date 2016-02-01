@@ -1,2 +1,2 @@
-# Python
-My first repository for everything related to Python.
+# Python - Games
+Using this repository to keep track of my Python Games. Only for small projects.
